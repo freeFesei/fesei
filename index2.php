@@ -1,1 +1,2 @@
-aasdas
+<?php 
+echo 2; ?>
